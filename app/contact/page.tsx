@@ -65,7 +65,7 @@ export default function Contact() {
                     initial={{ scale: 3, opacity: 0 }}
                     animate={{ scale: 1, opacity: 1, transition: { delay: 0.2, type: "spring" }, inlineSize: 2 }}
                     className="text-center text-2xl">
-                    Let's Get in Touch:
+                    Let&apos;s Get in Touch:
                 </motion.p>
 
                 <div className=" pt-5 md:px-20">
